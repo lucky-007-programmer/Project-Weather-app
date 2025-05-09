@@ -12,7 +12,7 @@ A simple and elegant weather forecast web application built using **HTML**, **CS
 
 ## 🚀 Live Demo
 
-Check it out here:
+Check it out here: https://lucky-007-programmer.github.io/Project-Weather-app/
 
 
 ## 🛠️ Tech Stack
